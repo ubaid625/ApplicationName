@@ -38,7 +38,7 @@ public class HomeActivity extends AppCompatActivity {
 
         mAuth = FirebaseAuth.getInstance();
 
-        //Hello
+        //Hello to My Application
 
         loadProfile();
 
