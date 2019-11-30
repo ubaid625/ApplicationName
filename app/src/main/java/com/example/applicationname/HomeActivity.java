@@ -38,6 +38,8 @@ public class HomeActivity extends AppCompatActivity {
 
         mAuth = FirebaseAuth.getInstance();
 
+        //Hello to the future
+
         loadProfile();
 
         logout.setOnClickListener(new OnClickListener() {
